@@ -6,9 +6,9 @@
 #EXTINF:4,
 https://github.com/ronaldotong/hls/blob/master/example/segment-00000.ts?raw=true
 #EXTINF:7,
-https://github.com/ronaldotong/hls/blob/master/example/segment-00000.ts?raw=true
+https://github.com/ronaldotong/hls/blob/master/example/segment-00001.ts?raw=true
 #EXTINF:4,
-https://github.com/ronaldotong/hls/blob/master/example/segment-00000.ts?raw=true
+https://github.com/ronaldotong/hls/blob/master/example/segment-00002.ts?raw=true
 #EXTINF:4,
-https://github.com/ronaldotong/hls/blob/master/example/segment-00000.ts?raw=true
+https://github.com/ronaldotong/hls/blob/master/example/segment-00003.ts?raw=true
 #EXT-X-ENDLIST
