@@ -4,11 +4,11 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-PROGRAM-DATE-TIME:2015-07-30T12:36:33Z
 #EXTINF:4,
-segment-00000.ts
+https://github.com/ronaldotong/hls/blob/master/example/segment-00000.ts
 #EXTINF:7,
-segment-00001.ts
+https://github.com/ronaldotong/hls/blob/master/example/segment-00001.ts
 #EXTINF:4,
-segment-00002.ts
+https://github.com/ronaldotong/hls/blob/master/example/segment-00002.ts
 #EXTINF:4,
-segment-00003.ts
+https://github.com/ronaldotong/hls/blob/master/example/segment-00003.ts
 #EXT-X-ENDLIST
